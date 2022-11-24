@@ -1,5 +1,4 @@
 package com.lockedme;
-
 import java.io.File;
 
 public class LockedMeBo {
