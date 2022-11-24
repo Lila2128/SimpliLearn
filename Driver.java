@@ -1,5 +1,4 @@
 package com.lockedme;
-
 import java.util.Scanner;
 
 public class Driver {
